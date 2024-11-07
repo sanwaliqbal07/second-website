@@ -20,7 +20,7 @@ const About = () => {
         You can join us by (idk). If you&apos;re wondering about the perks, you&apos;ll receive the mythical title <span className="text-gray-700">Spartians</span>.
       </p>
       <p className="text-gray-800 text-center mt-6 text-base md:text-lg">
-        Thank you for being a part of Spartix's journey (which started just a week ago!).
+        Thank you for being a part of Spartix&apos;s journey (which started just a week ago!).
       </p>
     </div>
   );
